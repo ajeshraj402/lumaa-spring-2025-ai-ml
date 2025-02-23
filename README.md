@@ -24,8 +24,8 @@ Ensure you have **Python 3.13.1** installed on your system.
 Run the following command to install required Python libraries:  
 ```bash
 pip install -r requirements.txt
-
-## 💰 Salary Expectation
+```
+### 💰 Salary Expectation
 My expected salary is $3200 per month for a 40-hour workweek.
 or $1600 per month for a 20-hour workweek.
 
